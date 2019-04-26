@@ -1,0 +1,21 @@
+#grades-table {
+    text-align:center;
+    font-size:25px;
+}
+
+table{
+    padding:10px;
+}
+
+td, th{
+    padding-right:50px;
+}
+
+h1{
+    text-align:center;
+    padding:10px
+}
+
+input, button{
+    font-size:25px;
+}
